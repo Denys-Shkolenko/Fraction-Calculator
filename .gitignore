@@ -1,9 +1,2 @@
-# IDEA files
+target/
 .idea/
-*.iml
-
-# Compiled class file
-*.class
-
-# Log file
-*.log
