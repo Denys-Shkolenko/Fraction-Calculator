@@ -1,7 +1,15 @@
 # Fraction-Calculator
-Fraction Calculator with GUI
+Fraction Calculator with GUI  
 
-Варіант 21  
+### Created using:
+- Java
+- Swing
+  
+### Tested using:
+- JUnit
+- Mockito
+  
+## Варіант 21  
 Базовий клас - дріб (чисельник, знаменник, арифметичні операції, перетворення в дійсний тип).  
 Похідний клас - ціле число з дробовою частиною.  
   
